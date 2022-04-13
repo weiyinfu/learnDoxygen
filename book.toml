@@ -1,0 +1,9 @@
+[book]
+authors = ["weiyinfu.weiyinfu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "learnDoxygen"
+
+[build]
+create-missing = false
