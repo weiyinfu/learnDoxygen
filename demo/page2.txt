@@ -1,0 +1,7 @@
+/*! \page page1 A documentation page
+  天下大势为我所控
+*/
+
+/*! \page page2 Another page
+  为我所控
+*/
